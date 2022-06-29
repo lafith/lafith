@@ -12,6 +12,9 @@ My name is Lafith Mattara. Currently working as Project Engineer at [Healthcare 
 * [pymusica](https://github.com/lafith/pymusica) - Python Implementation of the classic paper 'MultiScale Image Contrast Amplification', with laplacian pyramid as the multi-resolution representation.
 * [ppdenoise](https://github.com/lafith/Phase-Preserving-Image-Denoising) - Python implementation of Peter Kovesi's paper 'Phase Preserving Denoising of Images'.
 
+<hr>
+#### 🌱 I’m currently learning PyTorch along with Deep Learning, focusing on Super resolution, Stereo image generarion and Semantic
+segmentation.
 
 
 <!--
