@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 My name is Lafith Mattara. Currently working as Project Engineer at [Healthcare Technology Innovation Centre](https://www.hticiitm.org/). I am working for the image processing team under their Endoscopy Development Group.
 
