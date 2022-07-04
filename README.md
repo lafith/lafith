@@ -17,8 +17,9 @@ My name is Lafith Mattara. Currently working as Project Engineer at [Healthcare 
 <hr></hr>
 🌱 I’m currently learning PyTorch along with Deep Learning, focusing on Super resolution, Stereo image generarion and Semantic
 segmentation.
+<hr></hr>
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lafith&theme=radical)
 <!--
 **lafith/lafith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
