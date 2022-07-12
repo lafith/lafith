@@ -4,7 +4,7 @@ My name is Lafith Mattara. Currently working as Project Engineer at [Healthcare 
 
 ## Some of my works
 ### Deep Learning
-* [Mobile-UNet](https://github.com/lafith/Mobile-UNet) - PyTorch implementation of Mobile Unet- an optimized UNet.
+* [Mobile-UNet](https://github.com/lafith/Mobile-UNet) - PyTorch implementation of Mobile Unet- an optimized UNet for real-time image segmentation.
 ### Simulator
 * [AUV Simulator](https://github.com/lafith/AUV-Simulator-Unity) - A simulator for testing the software stack of an Autonomus Underwater Vehicle. Developed using Unity and Blender.
 ### Shader Programming
